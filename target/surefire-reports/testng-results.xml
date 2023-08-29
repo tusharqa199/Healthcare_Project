@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T10:47:41 IST" name="KijksluiterSuite" finished-at="2023-08-28T10:48:50 IST" duration-ms="69384">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T10:47:41 IST" name="KijksluiterTest" finished-at="2023-08-28T10:48:50 IST" duration-ms="69384">
+      <class name="testCases.TC_002_MymedicineTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_002_MymedicineTest@53fb3dab]" started-at="2023-08-28T10:47:42 IST" name="setup" finished-at="2023-08-28T10:48:02 IST" duration-ms="20610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_mymedicine()[pri:0, instance:testCases.TC_002_MymedicineTest@53fb3dab]" started-at="2023-08-28T10:48:02 IST" name="test_mymedicine" finished-at="2023-08-28T10:48:49 IST" duration-ms="46379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_mymedicine -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_MymedicineTest@53fb3dab]" started-at="2023-08-28T10:48:49 IST" name="tearDown" finished-at="2023-08-28T10:48:50 IST" duration-ms="1454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_MymedicineTest -->
+    </test> <!-- KijksluiterTest -->
+  </suite> <!-- KijksluiterSuite -->
+</testng-results>

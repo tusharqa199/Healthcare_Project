@@ -1,0 +1,72 @@
+02:01:04.447 [main] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+02:01:13.338 [main] INFO  testCases.TC_001_LoginTest - Clicked on continue
+02:04:09.304 [main] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+02:04:17.847 [main] INFO  testCases.TC_001_LoginTest - Clicked on continue
+02:04:17.847 [main] INFO  testCases.TC_001_LoginTest - Finish loggin test
+02:23:49.300 [main] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+02:23:54.656 [main] INFO  testCases.TC_001_LoginTest - Clicked on continue
+02:23:54.656 [main] INFO  testCases.TC_001_LoginTest - Finish loggin test
+02:45:50.722 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+02:45:52.094 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+02:46:00.242 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Clicked on continue
+02:46:00.243 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Finish loggin test
+02:48:26.440 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+02:48:29.262 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+02:48:34.766 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Clicked on continue
+02:48:34.766 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Finish loggin test
+02:48:35.516 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Clicked on continue
+02:48:35.517 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Finish loggin test
+03:09:37.192 [main] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+03:09:42.560 [main] INFO  testCases.TC_001_LoginTest - Clicked on continue
+03:09:42.561 [main] INFO  testCases.TC_001_LoginTest - Finish loggin test
+18:42:49.424 [main] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+18:43:00.619 [main] INFO  testCases.TC_001_LoginTest - Clicked on continue
+18:43:00.619 [main] INFO  testCases.TC_001_LoginTest - Finish loggin test
+01:33:54.740 [main] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+01:34:00.666 [main] INFO  testCases.TC_001_LoginTest - Clicked on continue
+01:34:00.666 [main] INFO  testCases.TC_001_LoginTest - Finish loggin test
+01:34:15.495 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+01:35:30.222 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+01:44:12.869 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+01:46:09.809 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+01:52:17.183 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+01:53:41.272 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+01:56:43.569 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+01:58:04.610 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+01:59:44.628 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+02:04:23.167 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+02:39:41.691 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+02:42:50.210 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+02:46:15.499 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+02:50:35.765 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+21:32:01.537 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+21:32:06.435 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Finish TC_003_LoginDatadrivenTest *** 
+21:32:06.443 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+21:33:45.640 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+21:33:49.648 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+21:35:00.324 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+21:35:07.953 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+21:40:26.016 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+21:49:58.623 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+21:50:11.947 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Finish TC_003_LoginDatadrivenTest *** 
+22:34:18.493 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+22:34:24.978 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Finish TC_003_LoginDatadrivenTest *** 
+22:45:52.877 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+22:47:26.132 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+22:49:14.894 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+22:49:54.156 [main] INFO  testCases.TC_002_MymedicineTest - *** Finish mymedicalpage test ***
+01:20:24.362 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+01:20:34.121 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Finish TC_003_LoginDatadrivenTest *** 
+02:03:06.947 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+02:03:11.290 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Finish TC_003_LoginDatadrivenTest *** 
+02:10:33.762 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+02:10:40.138 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Finish TC_003_LoginDatadrivenTest *** 
+10:34:19.209 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Starting TC_003_LoginDatadrivenTest *** 
+10:34:25.363 [main] INFO  testCases.TC_003_LoginDatadrivenTest - *** Finish TC_003_LoginDatadrivenTest *** 
+10:36:16.744 [main] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+10:36:27.001 [main] INFO  testCases.TC_001_LoginTest - Clicked on continue
+10:36:27.001 [main] INFO  testCases.TC_001_LoginTest - Finish loggin test
+10:38:32.258 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+10:39:07.178 [main] INFO  testCases.TC_002_MymedicineTest - *** Finish mymedicalpage test ***
+10:48:02.989 [main] INFO  testCases.TC_002_MymedicineTest - *** Starting TC_002_MymedicineTest  ***
+10:48:49.334 [main] INFO  testCases.TC_002_MymedicineTest - *** Finish mymedicalpage test ***
