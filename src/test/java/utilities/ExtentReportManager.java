@@ -33,8 +33,8 @@ public class ExtentReportManager implements ITestListener {
 
 		sparkReporter = new ExtentSparkReporter(".\\reports\\" + repName);// specify location of the report
 
-		sparkReporter.config().setDocumentTitle("opencart Automation Report"); // Title of report
-		sparkReporter.config().setReportName("opencart Functional Testing"); // name of the report
+		sparkReporter.config().setDocumentTitle("kijksluiter Automation Report"); // Title of report
+		sparkReporter.config().setReportName("kijksluiter Functional Testing"); // name of the report
 		sparkReporter.config().setTheme(Theme.DARK);
 
 		extent = new ExtentReports();
@@ -74,26 +74,7 @@ public class ExtentReportManager implements ITestListener {
 	public void onFinish(ITestContext testContext) {
 		extent.flush();
 
-		/*
-		 * try { URL url = new
-		 * URL("file:///"+System.getProperty("user.dir")+"\\reports\\"+repName);
-		 * 
-		 * // Create the email message 
-		 * ImageHtmlEmail email = new ImageHtmlEmail();
-		 * email.setDataSourceResolver(new DataSourceUrlResolver(url));
-		 * email.setHostName("smtp.googlemail.com"); 
-		 * email.setSmtpPort(465);
-		 * email.setAuthenticator(new DefaultAuthenticator("pavanoltraining@gmail.com","password")); 
-		 * email.setSSLOnConnect(true);
-		 * email.setFrom("pavanoltraining@gmail.com"); //Sender
-		 * email.setSubject("Test Results");
-		 * email.setMsg("Please find Attached Report....");
-		 * email.addTo("pavankumar.busyqa@gmail.com"); //Receiver 
-		 * email.attach(url, "extent report", "please check report..."); 
-		 * email.send(); // send the email 
-		 * }
-		 * catch(Exception e) { e.printStackTrace(); }
-		 */
+		
 	}
 
 }
